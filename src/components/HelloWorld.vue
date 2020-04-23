@@ -13,8 +13,6 @@
       </li>
       <li>
         <a
-
-
           href="https://forum.vuejs.org"
           target="_blank"
         >
@@ -34,7 +32,7 @@
           href="https://twitter.com/vuejs"
           target="_blank"
         >
-          Twitter
+          TwittergggggggggDSKDKOIS
         </a>
       </li>
       <br>
